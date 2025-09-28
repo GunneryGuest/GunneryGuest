@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Joshua “Gunnery” Guest
 
-<!--
-**GunneryGuest/GunneryGuest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former Army Aviation Officer transitioning into **IT & Cybersecurity**. I’m building hands-on labs in Linux, log/SIEM analysis, and automation.
 
-Here are some ideas to get you started:
+## 🧰 Core Skills
+- **Linux** (admin, LVM/RAID, permissions), **Bash**, basic **Python**
+- **Security**: SIEM fundamentals, log parsing (Splunk), incident response basics
+- **Networking**: TCP/IP, DNS, HTTP, Wireshark
+- **Tools**: Git/GitHub, Docker (basics), cloud lab setup (AWS/Azure)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **linux-admin-labs** — LVM/RAID/permissions labs + scripts
+- **splunk-queries** — Practical searches/dashboards for investigations
+- **cloud-lab-setup** — Scripts to spin up a small test lab
+
+> See pinned repos below for details.
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/gunneryguest/
